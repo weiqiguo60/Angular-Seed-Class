@@ -1,0 +1,2 @@
+Angular-Seed-Class
+==================
